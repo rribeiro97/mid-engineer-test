@@ -1,0 +1,23 @@
+{
+  "name": "kis_node",
+  "version": "1.0.0",
+  "description": "How to run ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rribeiro97/mid-engineer-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rribeiro97/mid-engineer-test/issues"
+  },
+  "homepage": "https://github.com/rribeiro97/mid-engineer-test#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
